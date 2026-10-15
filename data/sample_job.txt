@@ -1,0 +1,3 @@
+Junior AI/ML Engineer
+Requirements: Strong Python, Machine Learning, NLP, scikit-learn, pandas, FastAPI or REST API development, SQL, Git/GitHub, Docker preferred, React plus.
+Responsibilities: Build and test ML features, prepare data, expose models through APIs, collaborate with engineers, and document technical work.

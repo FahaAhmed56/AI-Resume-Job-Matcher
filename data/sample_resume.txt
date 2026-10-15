@@ -1,0 +1,4 @@
+Software Engineering student and Python developer with experience building machine learning applications and REST APIs.
+Technical Skills: Python, Machine Learning, NLP, scikit-learn, pandas, FastAPI, SQL, Git, GitHub, React, Firebase.
+Projects: customer churn prediction, FastAPI REST APIs, React applications, data preprocessing and model evaluation.
+Interests: Artificial Intelligence, Natural Language Processing, RAG systems and automation.
